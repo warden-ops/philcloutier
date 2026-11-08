@@ -2,111 +2,8 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-08T01:44:25.410Z",
+  "syncedAt": "2026-11-08T17:59:48.755Z",
   "listings": [
-    {
-      "id": "22144424",
-      "centris": "22144424",
-      "status": "a-vendre",
-      "statusLabel": "À vendre",
-      "openHouse": {
-        "label": null,
-        "from": "2026-11-07T12:00:00",
-        "to": "2026-11-07T14:00:00",
-        "text": "samedi 7 novembre 2026 à 7 h 00 au samedi 7 novembre 2026 à 9 h 00"
-      },
-      "priceDisplay": "324 900$",
-      "priceAmount": 324900,
-      "priceKind": "sale",
-      "address": "204 Rue Brébeuf",
-      "city": "Papineauville",
-      "cityFull": "Papineauville",
-      "region": "Outaouais",
-      "postalCode": "J0V1R0",
-      "streetNumber": "204",
-      "streetName": "Rue Brébeuf",
-      "unit": null,
-      "propertyKind": "Maison de plain-pied",
-      "propertyType": "Détaché / Isolé",
-      "bedrooms": "2 chambres",
-      "bedroomsCount": 2,
-      "bathrooms": "1 salle de bain",
-      "bathroomsCount": 1,
-      "powderRooms": null,
-      "livingArea": null,
-      "landArea": "1 190,10 m²",
-      "descriptionText": "Superbe propriété située à Papineauville, à proximité des écoles, commerces et services. Elle offre un salon lumineux, une cuisine fonctionnelle rénovée en 2025, deux chambres, dont la principale avec walk-in, et une salle de bain rénovée en 2024. Plusieurs améliorations ont été réalisées depuis 2024 : fenêtres, portes extérieures, thermopompe murale, isolation de la fondation à l'uréthane, ajout de laine soufflée à l'entretoit, remplacement de plusieurs tuyaux et planchers. Portes intérieures et plinthes électriques remplacées en 2026. Grande cour gazonnée bordée d'arbres matures.",
-      "descriptionHtml": "Superbe propriété située à Papineauville, à proximité des écoles, commerces et services. Elle offre un salon lumineux, une cuisine fonctionnelle rénovée en 2025, deux chambres, dont la principale avec walk-in, et une salle de bain rénovée en 2024. Plusieurs améliorations ont été réalisées depuis 2024 : fenêtres, portes extérieures, thermopompe murale, isolation de la fondation à l'uréthane, ajout de laine soufflée à l'entretoit, remplacement de plusieurs tuyaux et planchers. Portes intérieures et plinthes électriques remplacées en 2026. Grande cour gazonnée bordée d'arbres matures.",
-      "photos": [
-        {
-          "alt": "Photo principale",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-pri01-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-pri01-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal02-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal02-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal03-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal03-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam04-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam04-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal05-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal05-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal06-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal06-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam07-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam07-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam08-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam08-01.jpg"
-        },
-        {
-          "alt": "Hall d'entrée",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-hal09-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-hal09-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-cui10-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-cui10-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-cui11-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-cui11-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam12-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam12-01.jpg"
-        }
-      ],
-      "photoCount": 36,
-      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/maison-a-vendre-outaouais/204-rue-brebeuf-papineauville-22144424",
-      "latitude": 45.6156626,
-      "longitude": -75.012355,
-      "showMap": true,
-      "datePosted": "2026-09-17T04:00:00.000000Z",
-      "updatedAt": "2026-10-27T03:25:03.043399Z"
-    },
     {
       "id": "14442444",
       "centris": "14442444",
@@ -792,6 +689,104 @@
       "showMap": true,
       "datePosted": "2026-05-28T04:00:00.000000Z",
       "updatedAt": "2026-10-11T15:13:25.585924Z"
+    },
+    {
+      "id": "22144424",
+      "centris": "22144424",
+      "status": "a-vendre",
+      "statusLabel": "À vendre",
+      "openHouse": null,
+      "priceDisplay": "324 900$",
+      "priceAmount": 324900,
+      "priceKind": "sale",
+      "address": "204 Rue Brébeuf",
+      "city": "Papineauville",
+      "cityFull": "Papineauville",
+      "region": "Outaouais",
+      "postalCode": "J0V1R0",
+      "streetNumber": "204",
+      "streetName": "Rue Brébeuf",
+      "unit": null,
+      "propertyKind": "Maison de plain-pied",
+      "propertyType": "Détaché / Isolé",
+      "bedrooms": "2 chambres",
+      "bedroomsCount": 2,
+      "bathrooms": "1 salle de bain",
+      "bathroomsCount": 1,
+      "powderRooms": null,
+      "livingArea": null,
+      "landArea": "1 190,10 m²",
+      "descriptionText": "Superbe propriété située à Papineauville, à proximité des écoles, commerces et services. Elle offre un salon lumineux, une cuisine fonctionnelle rénovée en 2025, deux chambres, dont la principale avec walk-in, et une salle de bain rénovée en 2024. Plusieurs améliorations ont été réalisées depuis 2024 : fenêtres, portes extérieures, thermopompe murale, isolation de la fondation à l'uréthane, ajout de laine soufflée à l'entretoit, remplacement de plusieurs tuyaux et planchers. Portes intérieures et plinthes électriques remplacées en 2026. Grande cour gazonnée bordée d'arbres matures.",
+      "descriptionHtml": "Superbe propriété située à Papineauville, à proximité des écoles, commerces et services. Elle offre un salon lumineux, une cuisine fonctionnelle rénovée en 2025, deux chambres, dont la principale avec walk-in, et une salle de bain rénovée en 2024. Plusieurs améliorations ont été réalisées depuis 2024 : fenêtres, portes extérieures, thermopompe murale, isolation de la fondation à l'uréthane, ajout de laine soufflée à l'entretoit, remplacement de plusieurs tuyaux et planchers. Portes intérieures et plinthes électriques remplacées en 2026. Grande cour gazonnée bordée d'arbres matures.",
+      "photos": [
+        {
+          "alt": "Photo principale",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-pri01-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-pri01-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal02-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal02-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal03-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal03-01.jpg"
+        },
+        {
+          "alt": "Salle à manger",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam04-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam04-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal05-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal05-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sal06-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sal06-01.jpg"
+        },
+        {
+          "alt": "Salle à manger",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam07-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam07-01.jpg"
+        },
+        {
+          "alt": "Salle à manger",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam08-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam08-01.jpg"
+        },
+        {
+          "alt": "Hall d'entrée",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-hal09-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-hal09-01.jpg"
+        },
+        {
+          "alt": "Cuisine",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-cui10-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-cui10-01.jpg"
+        },
+        {
+          "alt": "Cuisine",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-cui11-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-cui11-01.jpg"
+        },
+        {
+          "alt": "Salle à manger",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m22144424-sam12-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m22144424-sam12-01.jpg"
+        }
+      ],
+      "photoCount": 36,
+      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/maison-a-vendre-outaouais/204-rue-brebeuf-papineauville-22144424",
+      "latitude": 45.6156626,
+      "longitude": -75.012355,
+      "showMap": true,
+      "datePosted": "2026-09-17T04:00:00.000000Z",
+      "updatedAt": "2026-11-08T12:06:24.595819Z"
     },
     {
       "id": "18580207",
