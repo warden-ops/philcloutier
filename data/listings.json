@@ -2,7 +2,7 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-10T19:54:48.087Z",
+  "syncedAt": "2026-11-11T02:08:51.016Z",
   "listings": [
     {
       "id": "14442444",
@@ -500,8 +500,8 @@
       "status": "a-vendre",
       "statusLabel": "À vendre",
       "openHouse": null,
-      "priceDisplay": "484 900$",
-      "priceAmount": 484900,
+      "priceDisplay": "469 000$",
+      "priceAmount": 469000,
       "priceKind": "sale",
       "address": "83 Ch. des Îles-Yale app. 204",
       "city": "Saint-Eustache",
@@ -590,7 +590,7 @@
       "longitude": -73.8556026,
       "showMap": true,
       "datePosted": "2026-10-01T04:00:00.000000Z",
-      "updatedAt": "2026-11-10T18:08:13.673823Z"
+      "updatedAt": "2026-11-11T00:38:01.144963Z"
     },
     {
       "id": "18249507",
