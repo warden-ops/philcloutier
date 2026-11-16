@@ -2,8 +2,111 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-13T02:50:59.266Z",
+  "syncedAt": "2026-11-16T22:24:56.121Z",
   "listings": [
+    {
+      "id": "13402360",
+      "centris": "13402360",
+      "status": "a-vendre",
+      "statusLabel": "À vendre",
+      "openHouse": {
+        "label": "Visite libre ce dimanche",
+        "from": "2026-11-22T14:00:00-05:00",
+        "to": "2026-11-22T16:00:00-05:00",
+        "text": "Visite libre ce dimanche · dimanche 22 novembre 2026 à 14 h 00 au dimanche 22 novembre 2026 à 16 h 00"
+      },
+      "priceDisplay": "469 000$",
+      "priceAmount": 469000,
+      "priceKind": "sale",
+      "address": "83 Ch. des Îles-Yale app. 204",
+      "city": "Saint-Eustache",
+      "cityFull": "Saint-Eustache (Est)",
+      "region": "Laval/Rive-Nord",
+      "postalCode": "J7P5M5",
+      "streetNumber": "83",
+      "streetName": "Ch. des Îles-Yale",
+      "unit": "204",
+      "propertyKind": "Appartement - Condominium",
+      "propertyType": "Détaché / Isolé",
+      "bedrooms": "3 chambres",
+      "bedroomsCount": 3,
+      "bathrooms": "1 salle de bain",
+      "bathroomsCount": 1,
+      "powderRooms": "1 salle d'eau",
+      "livingArea": "112,30 m²",
+      "landArea": null,
+      "descriptionText": "Superbe condo aménagé sur deux niveaux, offrant une vaste aire de vie ouverte réunissant salon, salle à manger et cuisine moderne avec nombreuses armoires, grand comptoir et généreuses surfaces de travail. La fenestration abondante procure une belle luminosité naturelle. Salle d'eau avec espace laveuse-sécheuse. À l'étage, 3 chambres ainsi qu'une salle de bain avec double lavabo, bain et douche indépendante. Stationnement et rangement extérieur. Emplacement paisible près de la rivière des Mille Îles, des écoles, parcs, commerces, services et des autoroutes 13, 15 et 640.",
+      "descriptionHtml": "Superbe condo aménagé sur deux niveaux, offrant une vaste aire de vie ouverte réunissant salon, salle à manger et cuisine moderne avec nombreuses armoires, grand comptoir et généreuses surfaces de travail. La fenestration abondante procure une belle luminosité naturelle. Salle d'eau avec espace laveuse-sécheuse. À l'étage, 3 chambres ainsi qu'une salle de bain avec double lavabo, bain et douche indépendante. Stationnement et rangement extérieur. Emplacement paisible près de la rivière des Mille Îles, des écoles, parcs, commerces, services et des autoroutes 13, 15 et 640.",
+      "photos": [
+        {
+          "alt": "Photo principale",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-pri01-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-pri01-01.jpg"
+        },
+        {
+          "alt": "Façade",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-fac02-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-fac02-01.jpg"
+        },
+        {
+          "alt": "Façade",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-fac03-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-fac03-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal04-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal04-01.jpg"
+        },
+        {
+          "alt": "Salle à manger",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sam05-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sam05-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal06-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal06-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal07-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal07-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal08-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal08-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal09-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal09-01.jpg"
+        },
+        {
+          "alt": "Cuisine",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-cui10-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-cui10-01.jpg"
+        },
+        {
+          "alt": "Vue extérieure",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-vue11-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-vue11-01.jpg"
+        },
+        {
+          "alt": "Cuisine",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-cui12-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-cui12-01.jpg"
+        }
+      ],
+      "photoCount": 49,
+      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/condo-a-vendre-laval-rive-nord/83-ch-des-iles-yale-saint-eustache-est-13402360",
+      "latitude": 45.5815886,
+      "longitude": -73.8556026,
+      "showMap": true,
+      "datePosted": "2026-10-01T04:00:00.000000Z",
+      "updatedAt": "2026-11-16T20:25:13.452531Z"
+    },
     {
       "id": "14442444",
       "centris": "14442444",
@@ -493,104 +596,6 @@
       "showMap": true,
       "datePosted": "2026-10-17T04:00:00.000000Z",
       "updatedAt": "2026-10-18T03:23:17.068524Z"
-    },
-    {
-      "id": "13402360",
-      "centris": "13402360",
-      "status": "a-vendre",
-      "statusLabel": "À vendre",
-      "openHouse": null,
-      "priceDisplay": "469 000$",
-      "priceAmount": 469000,
-      "priceKind": "sale",
-      "address": "83 Ch. des Îles-Yale app. 204",
-      "city": "Saint-Eustache",
-      "cityFull": "Saint-Eustache (Est)",
-      "region": "Laval/Rive-Nord",
-      "postalCode": "J7P5M5",
-      "streetNumber": "83",
-      "streetName": "Ch. des Îles-Yale",
-      "unit": "204",
-      "propertyKind": "Appartement - Condominium",
-      "propertyType": "Détaché / Isolé",
-      "bedrooms": "3 chambres",
-      "bedroomsCount": 3,
-      "bathrooms": "1 salle de bain",
-      "bathroomsCount": 1,
-      "powderRooms": "1 salle d'eau",
-      "livingArea": "112,30 m²",
-      "landArea": null,
-      "descriptionText": "Superbe condo aménagé sur deux niveaux, offrant une vaste aire de vie ouverte réunissant salon, salle à manger et cuisine moderne avec nombreuses armoires, grand comptoir et généreuses surfaces de travail. La fenestration abondante procure une belle luminosité naturelle. Salle d'eau avec espace laveuse-sécheuse. À l'étage, 3 chambres ainsi qu'une salle de bain avec double lavabo, bain et douche indépendante. Stationnement et rangement extérieur. Emplacement paisible près de la rivière des Mille Îles, des écoles, parcs, commerces, services et des autoroutes 13, 15 et 640.",
-      "descriptionHtml": "Superbe condo aménagé sur deux niveaux, offrant une vaste aire de vie ouverte réunissant salon, salle à manger et cuisine moderne avec nombreuses armoires, grand comptoir et généreuses surfaces de travail. La fenestration abondante procure une belle luminosité naturelle. Salle d'eau avec espace laveuse-sécheuse. À l'étage, 3 chambres ainsi qu'une salle de bain avec double lavabo, bain et douche indépendante. Stationnement et rangement extérieur. Emplacement paisible près de la rivière des Mille Îles, des écoles, parcs, commerces, services et des autoroutes 13, 15 et 640.",
-      "photos": [
-        {
-          "alt": "Photo principale",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-pri01-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-pri01-01.jpg"
-        },
-        {
-          "alt": "Façade",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-fac02-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-fac02-01.jpg"
-        },
-        {
-          "alt": "Façade",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-fac03-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-fac03-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal04-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal04-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sam05-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sam05-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal06-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal06-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal07-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal07-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal08-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal08-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-sal09-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-sal09-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-cui10-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-cui10-01.jpg"
-        },
-        {
-          "alt": "Vue extérieure",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-vue11-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-vue11-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m13402360-cui12-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m13402360-cui12-01.jpg"
-        }
-      ],
-      "photoCount": 49,
-      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/condo-a-vendre-laval-rive-nord/83-ch-des-iles-yale-saint-eustache-est-13402360",
-      "latitude": 45.5815886,
-      "longitude": -73.8556026,
-      "showMap": true,
-      "datePosted": "2026-10-01T04:00:00.000000Z",
-      "updatedAt": "2026-11-11T16:19:31.071170Z"
     },
     {
       "id": "18249507",
