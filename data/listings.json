@@ -2,7 +2,7 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-22T19:53:52.637Z",
+  "syncedAt": "2026-11-23T03:00:31.547Z",
   "listings": [
     {
       "id": "13402360",
@@ -10,10 +10,10 @@
       "status": "a-vendre",
       "statusLabel": "À vendre",
       "openHouse": {
-        "label": "Visite libre aujourd'hui",
-        "from": "2026-11-22T14:00:00-05:00",
-        "to": "2026-11-22T16:00:00-05:00",
-        "text": "Visite libre aujourd'hui · dimanche 22 novembre 2026 à 14 h 00 au dimanche 22 novembre 2026 à 16 h 00"
+        "label": null,
+        "from": "2026-11-22T14:00:00",
+        "to": "2026-11-22T16:00:00",
+        "text": "dimanche 22 novembre 2026 à 9 h 00 au dimanche 22 novembre 2026 à 11 h 00"
       },
       "priceDisplay": "469 000$",
       "priceAmount": 469000,
