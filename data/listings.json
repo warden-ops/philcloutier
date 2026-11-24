@@ -2,8 +2,111 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-24T00:09:40.303Z",
+  "syncedAt": "2026-11-24T22:39:36.256Z",
   "listings": [
+    {
+      "id": "19593721",
+      "centris": "19593721",
+      "status": "a-vendre",
+      "statusLabel": "À vendre",
+      "openHouse": {
+        "label": "Visite libre ce dimanche",
+        "from": "2026-11-29T11:00:00-05:00",
+        "to": "2026-11-29T13:00:00-05:00",
+        "text": "Visite libre ce dimanche · dimanche 29 novembre 2026 à 11 h 00 au dimanche 29 novembre 2026 à 13 h 00"
+      },
+      "priceDisplay": "974 900$",
+      "priceAmount": 974900,
+      "priceKind": "sale",
+      "address": "2451 Rue de Toulon",
+      "city": "Mascouche",
+      "cityFull": "Mascouche (Ville)",
+      "region": "Lanaudière",
+      "postalCode": "J7K0V9",
+      "streetNumber": "2451",
+      "streetName": "Rue de Toulon",
+      "unit": null,
+      "propertyKind": "Maison de plain-pied",
+      "propertyType": "Détaché / Isolé",
+      "bedrooms": "4 chambres",
+      "bedroomsCount": 4,
+      "bathrooms": "2 salles de bain",
+      "bathroomsCount": 2,
+      "powderRooms": null,
+      "livingArea": null,
+      "landArea": "599,70 m²",
+      "descriptionText": "Superbe propriété de plain-pied se distinguant par sa structure en béton jusqu'à la toiture et ses nombreuses caractéristiques haut de gamme. Offrant 4 chambres à coucher, 2 salles de bain complètes, une cuisine contemporaine avec îlot central, un foyer au propane et des espaces de vie lumineux à aire ouverte. Le sous-sol entièrement aménagé propose une vaste salle familiale avec espace-bar et planchers chauffants au glycol. Garage intégré chauffant avec mezzanine. La cour arrière, véritable oasis de détente, comprend une piscine creusée chauffée au sel, un spa, un sauna, une pergola ainsi qu'une magnifique terrasse couverte. À découvrir.",
+      "descriptionHtml": "Superbe propriété de plain-pied se distinguant par sa structure en béton jusqu'à la toiture et ses nombreuses caractéristiques haut de gamme. Offrant 4 chambres à coucher, 2 salles de bain complètes, une cuisine contemporaine avec îlot central, un foyer au propane et des espaces de vie lumineux à aire ouverte. Le sous-sol entièrement aménagé propose une vaste salle familiale avec espace-bar et planchers chauffants au glycol. Garage intégré chauffant avec mezzanine. La cour arrière, véritable oasis de détente, comprend une piscine creusée chauffée au sel, un spa, un sauna, une pergola ainsi qu'une magnifique terrasse couverte. À découvrir.",
+      "photos": [
+        {
+          "alt": "Photo principale",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-pri01-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-pri01-01.jpg"
+        },
+        {
+          "alt": "Cour arrière",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-cou02-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-cou02-01.jpg"
+        },
+        {
+          "alt": "Vue d'ensemble",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-vde03-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-vde03-01.jpg"
+        },
+        {
+          "alt": "Vue d'ensemble",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-vde04-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-vde04-01.jpg"
+        },
+        {
+          "alt": "Vue d'ensemble",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-vde05-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-vde05-01.jpg"
+        },
+        {
+          "alt": "Vue d'ensemble",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-vde06-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-vde06-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-sal07-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-sal07-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-sal08-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-sal08-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-sal09-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-sal09-01.jpg"
+        },
+        {
+          "alt": "Salon",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-sal10-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-sal10-01.jpg"
+        },
+        {
+          "alt": "Vue d'ensemble",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-vde11-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-vde11-01.jpg"
+        },
+        {
+          "alt": "Cour arrière",
+          "large": "https://media.remax-quebec.com/img/www_large/0026/m19593721-cou12-01.jpg",
+          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m19593721-cou12-01.jpg"
+        }
+      ],
+      "photoCount": 72,
+      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/maison-a-vendre-lanaudiere/2451-rue-de-toulon-mascouche-ville-19593721",
+      "latitude": 45.7619676,
+      "longitude": -73.6167996,
+      "showMap": true,
+      "datePosted": "2026-11-24T05:00:00.000000Z",
+      "updatedAt": "2026-11-24T10:37:14.933187Z"
+    },
     {
       "id": "14442444",
       "centris": "14442444",
