@@ -2,7 +2,7 @@
   "source": "https://www.remax-quebec.com/fr/courtiers-immobiliers/philippe.cloutier",
   "brokerSlug": "philippe.cloutier",
   "brokerId": 25624,
-  "syncedAt": "2026-11-24T22:39:36.256Z",
+  "syncedAt": "2026-11-27T21:30:13.246Z",
   "listings": [
     {
       "id": "19593721",
@@ -890,104 +890,6 @@
       "showMap": true,
       "datePosted": "2026-09-17T04:00:00.000000Z",
       "updatedAt": "2026-11-08T12:06:24.595819Z"
-    },
-    {
-      "id": "18580207",
-      "centris": "18580207",
-      "status": "vendu",
-      "statusLabel": "Vendu",
-      "openHouse": null,
-      "priceDisplay": "Vendu",
-      "priceAmount": 0,
-      "priceKind": "sale",
-      "address": "86 14e Avenue",
-      "city": "Deux-Montagnes",
-      "cityFull": "Deux-Montagnes (Sud)",
-      "region": "Laval/Rive-Nord",
-      "postalCode": "J7R3V8",
-      "streetNumber": "86",
-      "streetName": "14e Avenue",
-      "unit": null,
-      "propertyKind": "Maison à étages",
-      "propertyType": "Semi détaché / Jumelé",
-      "bedrooms": "3 chambres",
-      "bedroomsCount": 3,
-      "bathrooms": "1 salle de bain",
-      "bathroomsCount": 1,
-      "powderRooms": "1 salle d'eau",
-      "livingArea": null,
-      "landArea": "485 m²",
-      "descriptionText": "Bienvenue au 86, 14e Avenue à Deux-Montagnes! Cette propriété jumelée au style actuel, sur un coin de rue, offre une aire de vie ouverte et lumineuse réunissant salon, salle à manger et cuisine avec généreuses surfaces de travail. À l'étage se trouvent 3 chambres, dont la principale avec walk-in, une salle de bain avec baignoire autoportante et douche vitrée, ainsi qu'un espace laveuse-sécheuse. Profitez également d'un garage intégré, d'une grande terrasse avec gazebo et d'une cour intime clôturée. Emplacement familial près des parcs, écoles, services et transports.",
-      "descriptionHtml": "Bienvenue au 86, 14e Avenue à Deux-Montagnes! Cette propriété jumelée au style actuel, sur un coin de rue, offre une aire de vie ouverte et lumineuse réunissant salon, salle à manger et cuisine avec généreuses surfaces de travail. À l'étage se trouvent 3 chambres, dont la principale avec walk-in, une salle de bain avec baignoire autoportante et douche vitrée, ainsi qu'un espace laveuse-sécheuse. Profitez également d'un garage intégré, d'une grande terrasse avec gazebo et d'une cour intime clôturée. Emplacement familial près des parcs, écoles, services et transports.",
-      "photos": [
-        {
-          "alt": "Photo principale",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-pri01-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-pri01-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal02-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal02-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal03-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal03-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal04-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal04-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal05-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal05-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal06-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal06-01.jpg"
-        },
-        {
-          "alt": "Salon",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sal07-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sal07-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-cui08-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-cui08-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-cui09-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-cui09-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-cui10-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-cui10-01.jpg"
-        },
-        {
-          "alt": "Cuisine",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-cui11-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-cui11-01.jpg"
-        },
-        {
-          "alt": "Salle à manger",
-          "large": "https://media.remax-quebec.com/img/www_large/0026/m18580207-sam12-01.jpg",
-          "medium": "https://media.remax-quebec.com/img/www_medium/0026/m18580207-sam12-01.jpg"
-        }
-      ],
-      "photoCount": 55,
-      "listingUrl": "https://www.remax-quebec.com/fr/proprietes/maison-a-vendre-laval-rive-nord/86-14e-avenue-deux-montagnes-sud-18580207",
-      "latitude": 45.5357956,
-      "longitude": -73.8940746,
-      "showMap": true,
-      "datePosted": "2026-10-03T04:00:00.000000Z",
-      "updatedAt": "2026-11-04T17:25:47.858986Z"
     }
   ]
 }
